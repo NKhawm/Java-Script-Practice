@@ -37,7 +37,7 @@ else if(p_Word.lenght<6)
 var email1 = 'khawmhuai@gmail.com';
 var email2 = 'khawmhuaigamail.com';
 
-email1.indexOf("@");
+email1.indexOf('@');
 email2.indexOf("@");
 
 }
